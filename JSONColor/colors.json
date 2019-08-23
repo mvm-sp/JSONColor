@@ -1,0 +1,282 @@
+{
+	"EstruturaCores": {
+		"Estrutura": {
+			"Geral": {
+				"Geral": {
+					"Texto": "0,0,0",
+					"Borda": "0,0,0",
+					"Fundo": "221,221,221"
+				}
+			},
+			"Formulario": {
+				"Geral": {
+					"Texto": "221,221,221",
+					"Borda": "0,0,85",
+					"Fundo": "255,255,255"
+				},
+				"Titulo": {
+					"Texto": "255,255,255",
+					"Borda": "0,0,0,0",
+					"Fundo": "50,119,168"
+				},
+				"Cabecalho": {
+					"Texto": "255,255,255",
+					"Borda": "0,0,0",
+					"Fundo": "50,119,168"
+				},
+				"Instrucoes": {
+					"Texto": "119,119,119",
+					"Borda": "0,0,0",
+					"Fundo": "255,253,209"
+				},
+				"Link": {
+					"Texto": "0,0,255",
+					"Borda": "0,0,0",
+					"Fundo": "0,0,0"
+				},
+				"Rodape": {
+					"Texto": "119,119,119",
+					"Borda": "0,0,0",
+					"Fundo": "148,194,227"
+				},
+				"Confirmar": {
+					"Texto": "255,255,255",
+					"Borda": "0,0,0",
+					"Fundo": "0,119,0"
+				},
+				"Voltar": {
+					"Texto": "255,0,0",
+					"Borda": "0,0,0",
+					"Fundo": "221,221,221"
+				},
+				"Avancar": {
+					"Texto": "255,0,0",
+					"Borda": "0,0,0",
+					"Fundo": "221,221,221"
+				},
+				"Cancelar": {
+					"Texto": "255,255,255",
+					"Borda": "0,0,0",
+					"Fundo": "255,0,0"
+				}
+			},
+			"Modulos": {
+				"Geral": {
+					"Texto": "119,119,119",
+					"Borda": "0,0,0",
+					"Fundo": "221,221,221"
+				},
+				"Normal": {
+					"Texto": "119,119,119",
+					"Borda": "0,0,0",
+					"Fundo": "221,221,221"
+				},
+				"Selecionado": {
+					"Texto": "255,255,255",
+					"Borda": "0,0,0",
+					"Fundo": "50,119,168"
+				}
+			},
+			"Abas": {
+				"Geral": {
+					"Texto": "119,119,119",
+					"Borda": "119,119,119",
+					"Fundo": "221,221,221"
+				},
+				"Normal1": {
+					"Texto": "119,119,119",
+					"Borda": "119,119,119",
+					"Fundo": "255,255,255"
+				},
+				"Normal2": {
+					"Texto": "119,119,119",
+					"Borda": "119,119,119",
+					"Fundo": "221,221,221"
+				},
+				"Selecionada1": {
+					"Texto": "255,255,255",
+					"Borda": "119,119,119",
+					"Fundo": "119,119,119"
+				},
+				"Selecionada2": {
+					"Texto": "255,255,255",
+					"Borda": "119,119,119",
+					"Fundo": "85,85,85"
+				}
+			},
+			"Status": {
+				"Geral": {
+					"Texto": "0,0,0",
+					"Borda": "0,0,0",
+					"Fundo": "0,0,0"
+				},
+				"Normal": {
+					"Texto": "0,0,0",
+					"Borda": "0,0,0",
+					"Fundo": "0,0,0"
+				},
+				"Selecionado": {
+					"Texto": "0,0,0",
+					"Borda": "0,0,0",
+					"Fundo": "0,0,0"
+				}
+			},
+			"Grade": {
+				"Geral": {
+					"Texto": "85,85,85",
+					"Borda": "0,0,0",
+					"Fundo": "221,221,221"
+				},
+				"FiltroLocalizador": {
+					"Texto": "119,119,119",
+					"Borda": "0,0,0",
+					"Fundo": "255,0,0"
+				},
+				"Ferramentas": {
+					"Texto": "119,119,119",
+					"Borda": "0,0,0",
+					"Fundo": "119,119,119"
+				},
+				"Cabecalho": {
+					"Texto": "255,255,255",
+					"Borda": "0,0,0",
+					"Fundo": "85,85,85"
+				},
+				"Celula": {
+					"Texto": "0,0,0",
+					"Borda": "0,0,0",
+					"Fundo": "255,255,255"
+				},
+				"MouseOver": {
+					"Texto": "0,0,0",
+					"Borda": "0,0,0",
+					"Fundo": "148,194,227"
+				},
+				"Selecao": {
+					"Texto": "0,0,0",
+					"Borda": "0,0,0",
+					"Fundo": "153,153,153"
+				},
+				"Controle": {
+					"Texto": "0,0,0",
+					"Borda": "0,0,0",
+					"Fundo": "255,255,255"
+				},
+				"Paginacao": {
+					"Texto": "119,119,119",
+					"Borda": "0,0,0",
+					"Fundo": "153,153,153"
+				}
+			},
+			"Detalhe": {
+				"Geral": {
+					"Texto": "119,119,119",
+					"Borda": "0,0,0",
+					"Fundo": "255,170,170"
+				}
+			},
+			"Acoes": {
+				"Geral": {
+					"Texto": "119,119,119",
+					"Borda": "119,119,119",
+					"Fundo": "221,221,221"
+				},
+				"ToolTip": {
+					"Texto": "119,119,119",
+					"Borda": "0,0,0",
+					"Fundo": "255,255,255"
+				},
+				"AcoesFixas1": {
+					"Texto": "0,0,0",
+					"Borda": "0,0,0",
+					"Fundo": "153,153,153"
+				},
+				"AcoesFixas2": {
+					"Texto": "255,255,255",
+					"Borda": "0,0,0",
+					"Fundo": "50,119,168"
+				},
+				"AcoesDinamicas1": {
+					"Texto": "0,0,0",
+					"Borda": "0,0,0",
+					"Fundo": "255,255,255"
+				},
+				"AcoesDinamicas2": {
+					"Texto": "0,0,0",
+					"Borda": "0,0,0",
+					"Fundo": "148,194,227"
+				}
+			},
+			"Questionario": {
+				"Geral": {
+					"Texto": "119,119,119",
+					"Borda": "0,0,0",
+					"Fundo": "255,255,255"
+				},
+				"Area": {
+					"Texto": "119,119,119",
+					"Borda": "119,119,119",
+					"Fundo": "255,255,255"
+				},
+				"Grupo": {
+					"Texto": "255,255,255",
+					"Borda": "0,0,0",
+					"Fundo": "119,119,119"
+				},
+				"SubGrupo": {
+					"Texto": "119,119,119",
+					"Borda": "0,0,0",
+					"Fundo": "221,221,221"
+				},
+				"Obrigatorio": {
+					"Texto": "119,0,0",
+					"Borda": "0,0,0",
+					"Fundo": "255,255,255"
+				},
+				"Controle": {
+					"Texto": "0,0,0",
+					"Borda": "0,0,0",
+					"Fundo": "255,255,255"
+				},
+				"Botao": {
+					"Texto": "119,119,119",
+					"Borda": "0,0,0",
+					"Fundo": "221,221,221"
+				}
+			},
+			"Estilos": {
+				"01": {
+					"Texto": "255,0,0",
+					"Borda": "255,0,0",
+					"Fundo": "255,0,0"
+				},
+				"02": {
+					"Texto": "255,255,0",
+					"Borda": "255,255,0",
+					"Fundo": "255,255,0"
+				},
+				"03": {
+					"Texto": "0,255,0",
+					"Borda": "0,255,0",
+					"Fundo": "0,255,0"
+				},
+				"04": {
+					"Texto": "0,255,255",
+					"Borda": "0,255,255",
+					"Fundo": "0,255,255"
+				},
+				"05": {
+					"Texto": "0,0,255",
+					"Borda": "0,0,255",
+					"Fundo": "0,0,255"
+				},
+				"06": {
+					"Texto": "0,0,0,0",
+					"Borda": "0,0,0,0",
+					"Fundo": "255,0,255"
+				}
+			}
+		}
+	},
+	"Bitmaps": "Padrao"
+}
